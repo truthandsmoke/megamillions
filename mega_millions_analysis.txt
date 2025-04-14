@@ -1,0 +1,366 @@
+Mega Millions Analysis Log
+Generated on: 2025-04-14 08:31:56
+==================================================
+
+Starting Mega Millions Analysis
+Analyzing 1 draws
+
+Analyzing 215 Mega Millions draws
+
+----- Regular Number Occurrences with Dates and Gaps -----
+Number 3: 42 times (19.53%) - First occurred on 08/11/2020 | Then on 08/25/2020 (after 14 days) | Then on 09/08/2020 (after 14 days) | Then on 11/27/2020 (after 80 days) | Then on 01/01/2021 (after 35 days) | Then on 01/12/2021 (after 11 days) | Then on 05/11/2021 (after 119 days) | Then on 05/18/2021 (after 7 days) | Then on 07/06/2021 (after 49 days) | Then on 10/08/2021 (after 94 days) | Then on 10/19/2021 (after 11 days) | Then on 12/28/2021 (after 70 days) | Then on 01/25/2022 (after 28 days) | Then on 01/25/2022 (after 0 days) | Then on 03/22/2022 (after 56 days) | Then on 05/17/2022 (after 56 days) | Then on 05/27/2022 (after 10 days) | Then on 08/19/2022 (after 84 days) | Then on 10/11/2022 (after 53 days) | Then on 12/13/2022 (after 63 days) | Then on 12/30/2022 (after 17 days) | Then on 04/18/2023 (after 109 days) | Then on 04/25/2023 (after 7 days) | Then on 05/23/2023 (after 28 days) | Then on 05/30/2023 (after 7 days) | Then on 06/06/2023 (after 7 days) | Then on 07/25/2023 (after 49 days) | Then on 08/29/2023 (after 35 days) | Then on 09/08/2023 (after 10 days) | Then on 10/03/2023 (after 25 days) | Then on 10/10/2023 (after 7 days) | Then on 01/02/2024 (after 84 days) | Then on 01/23/2024 (after 21 days) | Then on 02/09/2024 (after 17 days) | Then on 03/15/2024 (after 35 days) | Then on 05/31/2024 (after 77 days) | Then on 06/18/2024 (after 18 days) | Then on 06/25/2024 (after 7 days) | Then on 07/19/2024 (after 24 days) | Then on 09/24/2024 (after 67 days) | Then on 10/11/2024 (after 17 days) | Then on 12/24/2024 (after 74 days)
+Number 1: 29 times (13.49%) - First occurred on 04/21/2020 | Then on 06/09/2020 (after 49 days) | Then on 12/08/2020 (after 182 days) | Then on 12/25/2020 (after 17 days) | Then on 04/06/2021 (after 102 days) | Then on 06/15/2021 (after 70 days) | Then on 07/27/2021 (after 42 days) | Then on 08/27/2021 (after 31 days) | Then on 11/30/2021 (after 95 days) | Then on 02/08/2022 (after 70 days) | Then on 06/24/2022 (after 136 days) | Then on 08/05/2022 (after 42 days) | Then on 11/08/2022 (after 95 days) | Then on 11/29/2022 (after 21 days) | Then on 01/31/2023 (after 63 days) | Then on 03/14/2023 (after 42 days) | Then on 03/21/2023 (after 7 days) | Then on 03/28/2023 (after 7 days) | Then on 08/22/2023 (after 147 days) | Then on 01/16/2024 (after 147 days) | Then on 02/09/2024 (after 24 days) | Then on 04/05/2024 (after 56 days) | Then on 06/11/2024 (after 67 days) | Then on 06/11/2024 (after 0 days) | Then on 09/06/2024 (after 87 days) | Then on 02/14/2025 (after 161 days) | Then on 02/21/2025 (after 7 days) | Then on 03/07/2025 (after 14 days) | Then on 03/25/2025 (after 18 days)
+Number 7: 28 times (13.02%) - First occurred on 04/28/2020 | Then on 05/08/2020 (after 10 days) | Then on 09/08/2020 (after 123 days) | Then on 10/30/2020 (after 52 days) | Then on 11/06/2020 (after 7 days) | Then on 11/27/2020 (after 21 days) | Then on 12/18/2020 (after 21 days) | Then on 02/09/2021 (after 53 days) | Then on 02/16/2021 (after 7 days) | Then on 05/11/2021 (after 84 days) | Then on 06/01/2021 (after 21 days) | Then on 06/25/2021 (after 24 days) | Then on 09/03/2021 (after 70 days) | Then on 10/01/2021 (after 28 days) | Then on 11/23/2021 (after 53 days) | Then on 11/23/2021 (after 0 days) | Then on 11/30/2021 (after 7 days) | Then on 01/04/2022 (after 35 days) | Then on 02/01/2022 (after 28 days) | Then on 03/08/2022 (after 35 days) | Then on 04/19/2022 (after 42 days) | Then on 06/24/2022 (after 66 days) | Then on 07/01/2022 (after 7 days) | Then on 01/31/2023 (after 214 days) | Then on 04/18/2023 (after 77 days) | Then on 10/17/2023 (after 182 days) | Then on 12/24/2024 (after 434 days) | Then on 02/07/2025 (after 45 days)
+Number 11: 28 times (13.02%) - First occurred on 05/15/2020 | Then on 06/16/2020 (after 32 days) | Then on 08/18/2020 (after 63 days) | Then on 10/06/2020 (after 49 days) | Then on 01/12/2021 (after 98 days) | Then on 02/26/2021 (after 45 days) | Then on 03/26/2021 (after 28 days) | Then on 10/01/2021 (after 189 days) | Then on 02/01/2022 (after 123 days) | Then on 02/08/2022 (after 7 days) | Then on 02/15/2022 (after 7 days) | Then on 03/01/2022 (after 14 days) | Then on 03/29/2022 (after 28 days) | Then on 04/26/2022 (after 28 days) | Then on 05/10/2022 (after 14 days) | Then on 06/03/2022 (after 24 days) | Then on 10/04/2022 (after 123 days) | Then on 05/12/2023 (after 220 days) | Then on 08/01/2023 (after 81 days) | Then on 12/26/2023 (after 147 days) | Then on 02/02/2024 (after 38 days) | Then on 03/26/2024 (after 53 days) | Then on 04/16/2024 (after 21 days) | Then on 10/29/2024 (after 196 days) | Then on 12/24/2024 (after 56 days) | Then on 02/14/2025 (after 52 days) | Then on 02/21/2025 (after 7 days) | Then on 04/01/2025 (after 39 days)
+Number 15: 28 times (13.02%) - First occurred on 08/18/2020 | Then on 09/01/2020 (after 14 days) | Then on 09/08/2020 (after 7 days) | Then on 10/06/2020 (after 28 days) | Then on 11/17/2020 (after 42 days) | Then on 04/20/2021 (after 154 days) | Then on 09/03/2021 (after 136 days) | Then on 10/26/2021 (after 53 days) | Then on 11/02/2021 (after 7 days) | Then on 02/22/2022 (after 112 days) | Then on 05/03/2022 (after 70 days) | Then on 05/10/2022 (after 7 days) | Then on 05/27/2022 (after 17 days) | Then on 09/13/2022 (after 109 days) | Then on 10/04/2022 (after 21 days) | Then on 12/06/2022 (after 63 days) | Then on 12/23/2022 (after 17 days) | Then on 03/07/2023 (after 74 days) | Then on 04/25/2023 (after 49 days) | Then on 05/12/2023 (after 17 days) | Then on 09/22/2023 (after 133 days) | Then on 10/27/2023 (after 35 days) | Then on 02/27/2024 (after 123 days) | Then on 04/26/2024 (after 59 days) | Then on 07/02/2024 (after 67 days) | Then on 07/09/2024 (after 7 days) | Then on 03/14/2025 (after 248 days) | Then on 04/11/2025 (after 28 days)
+Number 5: 27 times (12.56%) - First occurred on 05/08/2020 | Then on 10/06/2020 (after 151 days) | Then on 02/09/2021 (after 126 days) | Then on 02/16/2021 (after 7 days) | Then on 04/30/2021 (after 73 days) | Then on 11/02/2021 (after 186 days) | Then on 11/16/2021 (after 14 days) | Then on 12/28/2021 (after 42 days) | Then on 01/11/2022 (after 14 days) | Then on 04/26/2022 (after 105 days) | Then on 05/17/2022 (after 21 days) | Then on 08/19/2022 (after 94 days) | Then on 09/20/2022 (after 32 days) | Then on 11/01/2022 (after 42 days) | Then on 11/08/2022 (after 7 days) | Then on 11/08/2022 (after 0 days) | Then on 05/12/2023 (after 185 days) | Then on 07/25/2023 (after 74 days) | Then on 09/15/2023 (after 52 days) | Then on 01/02/2024 (after 109 days) | Then on 01/23/2024 (after 21 days) | Then on 02/16/2024 (after 24 days) | Then on 05/31/2024 (after 105 days) | Then on 07/09/2024 (after 39 days) | Then on 11/15/2024 (after 129 days) | Then on 11/15/2024 (after 0 days) | Then on 11/22/2024 (after 7 days)
+Number 8: 27 times (12.56%) - First occurred on 05/15/2020 | Then on 07/21/2020 (after 67 days) | Then on 08/11/2020 (after 21 days) | Then on 08/25/2020 (after 14 days) | Then on 02/26/2021 (after 185 days) | Then on 06/25/2021 (after 119 days) | Then on 08/27/2021 (after 63 days) | Then on 01/11/2022 (after 137 days) | Then on 03/22/2022 (after 70 days) | Then on 03/29/2022 (after 7 days) | Then on 06/10/2022 (after 73 days) | Then on 08/05/2022 (after 56 days) | Then on 09/27/2022 (after 53 days) | Then on 12/06/2022 (after 70 days) | Then on 12/13/2022 (after 7 days) | Then on 02/28/2023 (after 77 days) | Then on 06/13/2023 (after 105 days) | Then on 06/20/2023 (after 7 days) | Then on 06/30/2023 (after 10 days) | Then on 12/05/2023 (after 158 days) | Then on 12/26/2023 (after 21 days) | Then on 03/15/2024 (after 80 days) | Then on 05/14/2024 (after 60 days) | Then on 10/18/2024 (after 157 days) | Then on 01/17/2025 (after 91 days) | Then on 02/21/2025 (after 35 days) | Then on 03/07/2025 (after 14 days)
+Number 10: 27 times (12.56%) - First occurred on 05/22/2020 | Then on 12/08/2020 (after 200 days) | Then on 03/05/2021 (after 87 days) | Then on 03/12/2021 (after 7 days) | Then on 03/26/2021 (after 14 days) | Then on 04/13/2021 (after 18 days) | Then on 04/30/2021 (after 17 days) | Then on 05/25/2021 (after 25 days) | Then on 07/06/2021 (after 42 days) | Then on 07/16/2021 (after 10 days) | Then on 11/02/2021 (after 109 days) | Then on 07/01/2022 (after 241 days) | Then on 07/26/2022 (after 25 days) | Then on 08/05/2022 (after 10 days) | Then on 06/30/2023 (after 329 days) | Then on 07/11/2023 (after 11 days) | Then on 07/11/2023 (after 0 days) | Then on 07/25/2023 (after 14 days) | Then on 08/11/2023 (after 17 days) | Then on 08/29/2023 (after 18 days) | Then on 12/15/2023 (after 108 days) | Then on 02/02/2024 (after 49 days) | Then on 03/26/2024 (after 53 days) | Then on 04/26/2024 (after 31 days) | Then on 07/19/2024 (after 84 days) | Then on 08/30/2024 (after 42 days) | Then on 04/01/2025 (after 214 days)
+Number 14: 27 times (12.56%) - First occurred on 06/09/2020 | Then on 07/21/2020 (after 42 days) | Then on 09/25/2020 (after 66 days) | Then on 10/30/2020 (after 35 days) | Then on 11/06/2020 (after 7 days) | Then on 01/29/2021 (after 84 days) | Then on 02/09/2021 (after 11 days) | Then on 05/25/2021 (after 105 days) | Then on 05/25/2021 (after 0 days) | Then on 06/15/2021 (after 21 days) | Then on 08/27/2021 (after 73 days) | Then on 10/19/2021 (after 53 days) | Then on 07/15/2022 (after 269 days) | Then on 07/26/2022 (after 11 days) | Then on 09/13/2022 (after 49 days) | Then on 11/15/2022 (after 63 days) | Then on 02/28/2023 (after 105 days) | Then on 03/21/2023 (after 21 days) | Then on 09/08/2023 (after 171 days) | Then on 10/27/2023 (after 49 days) | Then on 01/23/2024 (after 88 days) | Then on 04/05/2024 (after 73 days) | Then on 07/19/2024 (after 105 days) | Then on 09/13/2024 (after 56 days) | Then on 01/10/2025 (after 119 days) | Then on 01/28/2025 (after 18 days) | Then on 02/28/2025 (after 31 days)
+Number 2: 26 times (12.09%) - First occurred on 08/04/2020 | Then on 03/12/2021 (after 220 days) | Then on 12/28/2021 (after 291 days) | Then on 01/11/2022 (after 14 days) | Then on 02/15/2022 (after 35 days) | Then on 03/15/2022 (after 28 days) | Then on 04/12/2022 (after 28 days) | Then on 04/19/2022 (after 7 days) | Then on 07/15/2022 (after 87 days) | Then on 08/05/2022 (after 21 days) | Then on 08/26/2022 (after 21 days) | Then on 11/01/2022 (after 67 days) | Then on 11/15/2022 (after 14 days) | Then on 01/10/2023 (after 56 days) | Then on 02/14/2023 (after 35 days) | Then on 02/21/2023 (after 7 days) | Then on 02/21/2023 (after 0 days) | Then on 09/08/2023 (after 199 days) | Then on 01/16/2024 (after 130 days) | Then on 02/02/2024 (after 17 days) | Then on 02/27/2024 (after 25 days) | Then on 03/08/2024 (after 10 days) | Then on 07/26/2024 (after 140 days) | Then on 09/06/2024 (after 42 days) | Then on 12/10/2024 (after 95 days) | Then on 03/25/2025 (after 105 days)
+Number 9: 26 times (12.09%) - First occurred on 06/02/2020 | Then on 06/09/2020 (after 7 days) | Then on 08/25/2020 (after 77 days) | Then on 09/25/2020 (after 31 days) | Then on 11/17/2020 (after 53 days) | Then on 02/16/2021 (after 91 days) | Then on 03/19/2021 (after 31 days) | Then on 05/18/2021 (after 60 days) | Then on 06/08/2021 (after 21 days) | Then on 07/27/2021 (after 49 days) | Then on 10/19/2021 (after 84 days) | Then on 11/09/2021 (after 21 days) | Then on 03/15/2022 (after 126 days) | Then on 04/26/2022 (after 42 days) | Then on 09/20/2022 (after 147 days) | Then on 10/11/2022 (after 21 days) | Then on 12/23/2022 (after 73 days) | Then on 02/07/2023 (after 46 days) | Then on 03/07/2023 (after 28 days) | Then on 09/15/2023 (after 192 days) | Then on 01/16/2024 (after 123 days) | Then on 07/19/2024 (after 185 days) | Then on 01/10/2025 (after 175 days) | Then on 01/28/2025 (after 18 days) | Then on 02/28/2025 (after 31 days) | Then on 03/25/2025 (after 25 days)
+Number 20: 26 times (12.09%) - First occurred on 06/30/2020 | Then on 06/30/2020 (after 0 days) | Then on 12/08/2020 (after 161 days) | Then on 01/01/2021 (after 24 days) | Then on 02/16/2021 (after 46 days) | Then on 05/25/2021 (after 98 days) | Then on 10/08/2021 (after 136 days) | Then on 11/02/2021 (after 25 days) | Then on 04/12/2022 (after 161 days) | Then on 06/10/2022 (after 59 days) | Then on 07/01/2022 (after 21 days) | Then on 11/01/2022 (after 123 days) | Then on 11/29/2022 (after 28 days) | Then on 12/30/2022 (after 31 days) | Then on 02/07/2023 (after 39 days) | Then on 03/07/2023 (after 28 days) | Then on 05/23/2023 (after 77 days) | Then on 08/01/2023 (after 70 days) | Then on 08/11/2023 (after 10 days) | Then on 10/17/2023 (after 67 days) | Then on 09/13/2024 (after 332 days) | Then on 09/24/2024 (after 11 days) | Then on 12/10/2024 (after 77 days) | Then on 12/31/2024 (after 21 days) | Then on 12/31/2024 (after 0 days) | Then on 02/14/2025 (after 45 days)
+Number 4: 25 times (11.63%) - First occurred on 08/04/2020 | Then on 08/18/2020 (after 14 days) | Then on 01/19/2021 (after 154 days) | Then on 02/26/2021 (after 38 days) | Then on 03/05/2021 (after 7 days) | Then on 04/20/2021 (after 46 days) | Then on 04/30/2021 (after 10 days) | Then on 06/01/2021 (after 32 days) | Then on 06/08/2021 (after 7 days) | Then on 01/04/2022 (after 210 days) | Then on 01/18/2022 (after 14 days) | Then on 04/12/2022 (after 84 days) | Then on 06/03/2022 (after 52 days) | Then on 07/01/2022 (after 28 days) | Then on 10/18/2022 (after 109 days) | Then on 12/13/2022 (after 56 days) | Then on 01/20/2023 (after 38 days) | Then on 01/31/2023 (after 11 days) | Then on 05/05/2023 (after 94 days) | Then on 06/13/2023 (after 39 days) | Then on 02/16/2024 (after 248 days) | Then on 07/02/2024 (after 137 days) | Then on 01/10/2025 (after 192 days) | Then on 02/07/2025 (after 28 days) | Then on 02/21/2025 (after 14 days)
+Number 6: 25 times (11.63%) - First occurred on 06/23/2020 | Then on 07/10/2020 (after 17 days) | Then on 10/13/2020 (after 95 days) | Then on 11/06/2020 (after 24 days) | Then on 01/01/2021 (after 56 days) | Then on 05/18/2021 (after 137 days) | Then on 07/06/2021 (after 49 days) | Then on 10/26/2021 (after 112 days) | Then on 11/16/2021 (after 21 days) | Then on 02/15/2022 (after 91 days) | Then on 02/22/2022 (after 7 days) | Then on 03/15/2022 (after 21 days) | Then on 05/17/2022 (after 63 days) | Then on 05/27/2022 (after 10 days) | Then on 09/06/2022 (after 102 days) | Then on 10/04/2022 (after 28 days) | Then on 11/15/2022 (after 42 days) | Then on 06/06/2023 (after 203 days) | Then on 09/15/2023 (after 101 days) | Then on 10/10/2023 (after 25 days) | Then on 11/17/2023 (after 38 days) | Then on 02/16/2024 (after 91 days) | Then on 07/02/2024 (after 137 days) | Then on 08/02/2024 (after 31 days) | Then on 09/06/2024 (after 35 days)
+Number 17: 25 times (11.63%) - First occurred on 04/28/2020 | Then on 07/28/2020 (after 91 days) | Then on 12/25/2020 (after 150 days) | Then on 01/29/2021 (after 35 days) | Then on 04/13/2021 (after 74 days) | Then on 05/18/2021 (after 35 days) | Then on 07/06/2021 (after 49 days) | Then on 07/16/2021 (after 10 days) | Then on 07/27/2021 (after 11 days) | Then on 08/06/2021 (after 10 days) | Then on 08/17/2021 (after 11 days) | Then on 09/03/2021 (after 17 days) | Then on 09/14/2021 (after 11 days) | Then on 09/24/2021 (after 10 days) | Then on 12/17/2021 (after 84 days) | Then on 04/12/2022 (after 116 days) | Then on 11/08/2022 (after 210 days) | Then on 03/21/2023 (after 133 days) | Then on 06/30/2023 (after 101 days) | Then on 11/17/2023 (after 140 days) | Then on 12/15/2023 (after 28 days) | Then on 01/16/2024 (after 32 days) | Then on 02/09/2024 (after 24 days) | Then on 04/16/2024 (after 67 days) | Then on 05/14/2024 (after 28 days)
+Number 16: 24 times (11.16%) - First occurred on 05/08/2020 | Then on 06/30/2020 (after 53 days) | Then on 01/01/2021 (after 185 days) | Then on 12/17/2021 (after 350 days) | Then on 01/25/2022 (after 39 days) | Then on 02/01/2022 (after 7 days) | Then on 02/08/2022 (after 7 days) | Then on 05/03/2022 (after 84 days) | Then on 09/06/2022 (after 126 days) | Then on 09/27/2022 (after 21 days) | Then on 11/15/2022 (after 49 days) | Then on 03/28/2023 (after 133 days) | Then on 04/25/2023 (after 28 days) | Then on 05/05/2023 (after 10 days) | Then on 05/30/2023 (after 25 days) | Then on 10/17/2023 (after 140 days) | Then on 01/16/2024 (after 91 days) | Then on 01/23/2024 (after 7 days) | Then on 03/08/2024 (after 45 days) | Then on 08/20/2024 (after 165 days) | Then on 09/06/2024 (after 17 days) | Then on 10/29/2024 (after 53 days) | Then on 11/29/2024 (after 31 days) | Then on 04/01/2025 (after 123 days)
+Number 19: 23 times (10.70%) - First occurred on 05/15/2020 | Then on 06/23/2020 (after 39 days) | Then on 09/01/2020 (after 70 days) | Then on 11/27/2020 (after 87 days) | Then on 12/08/2020 (after 11 days) | Then on 04/30/2021 (after 143 days) | Then on 07/16/2021 (after 77 days) | Then on 07/27/2021 (after 11 days) | Then on 03/01/2022 (after 217 days) | Then on 12/06/2022 (after 280 days) | Then on 05/30/2023 (after 175 days) | Then on 06/06/2023 (after 7 days) | Then on 07/18/2023 (after 42 days) | Then on 08/01/2023 (after 14 days) | Then on 01/09/2024 (after 161 days) | Then on 02/09/2024 (after 31 days) | Then on 03/08/2024 (after 28 days) | Then on 04/16/2024 (after 39 days) | Then on 05/31/2024 (after 45 days) | Then on 07/26/2024 (after 56 days) | Then on 09/24/2024 (after 60 days) | Then on 02/28/2025 (after 157 days) | Then on 03/07/2025 (after 7 days)
+Number 13: 22 times (10.23%) - First occurred on 04/21/2020 | Then on 04/28/2020 (after 7 days) | Then on 05/22/2020 (after 24 days) | Then on 07/10/2020 (after 49 days) | Then on 10/13/2020 (after 95 days) | Then on 01/29/2021 (after 108 days) | Then on 02/26/2021 (after 28 days) | Then on 07/16/2021 (after 140 days) | Then on 01/11/2022 (after 179 days) | Then on 03/22/2022 (after 70 days) | Then on 06/10/2022 (after 80 days) | Then on 07/26/2022 (after 46 days) | Then on 11/22/2022 (after 119 days) | Then on 12/23/2022 (after 31 days) | Then on 05/30/2023 (after 158 days) | Then on 06/20/2023 (after 21 days) | Then on 08/01/2023 (after 42 days) | Then on 09/15/2023 (after 45 days) | Then on 11/07/2023 (after 53 days) | Then on 05/03/2024 (after 178 days) | Then on 05/14/2024 (after 11 days) | Then on 11/22/2024 (after 192 days)
+Number 18: 22 times (10.23%) - First occurred on 10/13/2020 | Then on 12/08/2020 (after 56 days) | Then on 01/01/2021 (after 24 days) | Then on 05/11/2021 (after 130 days) | Then on 05/18/2021 (after 7 days) | Then on 08/17/2021 (after 91 days) | Then on 09/24/2021 (after 38 days) | Then on 10/01/2021 (after 7 days) | Then on 03/01/2022 (after 151 days) | Then on 06/10/2022 (after 101 days) | Then on 10/18/2022 (after 130 days) | Then on 01/10/2023 (after 84 days) | Then on 04/25/2023 (after 105 days) | Then on 08/11/2023 (after 108 days) | Then on 09/22/2023 (after 42 days) | Then on 10/10/2023 (after 18 days) | Then on 04/05/2024 (after 178 days) | Then on 04/26/2024 (after 21 days) | Then on 05/21/2024 (after 25 days) | Then on 06/18/2024 (after 28 days) | Then on 08/20/2024 (after 63 days) | Then on 11/05/2024 (after 77 days)
+Number 21: 21 times (9.77%) - First occurred on 04/28/2020 | Then on 06/16/2020 (after 49 days) | Then on 07/10/2020 (after 24 days) | Then on 04/30/2021 (after 294 days) | Then on 08/06/2021 (after 98 days) | Then on 10/01/2021 (after 56 days) | Then on 10/08/2021 (after 7 days) | Then on 05/03/2022 (after 207 days) | Then on 06/24/2022 (after 52 days) | Then on 09/06/2022 (after 74 days) | Then on 10/18/2022 (after 42 days) | Then on 11/29/2022 (after 42 days) | Then on 04/18/2023 (after 140 days) | Then on 06/30/2023 (after 73 days) | Then on 09/08/2023 (after 70 days) | Then on 12/05/2023 (after 88 days) | Then on 06/18/2024 (after 196 days) | Then on 08/20/2024 (after 63 days) | Then on 09/13/2024 (after 24 days) | Then on 09/24/2024 (after 11 days) | Then on 11/29/2024 (after 66 days)
+Number 26: 20 times (9.30%) - First occurred on 09/15/2020 | Then on 11/17/2020 (after 63 days) | Then on 04/06/2021 (after 140 days) | Then on 06/15/2021 (after 70 days) | Then on 07/06/2021 (after 21 days) | Then on 08/17/2021 (after 42 days) | Then on 10/19/2021 (after 63 days) | Then on 10/26/2021 (after 7 days) | Then on 09/27/2022 (after 336 days) | Then on 10/11/2022 (after 14 days) | Then on 03/14/2023 (after 154 days) | Then on 08/22/2023 (after 161 days) | Then on 12/15/2023 (after 115 days) | Then on 01/02/2024 (after 18 days) | Then on 05/03/2024 (after 122 days) | Then on 05/03/2024 (after 0 days) | Then on 06/11/2024 (after 39 days) | Then on 07/19/2024 (after 38 days) | Then on 10/18/2024 (after 91 days) | Then on 03/07/2025 (after 140 days)
+Number 31: 20 times (9.30%) - First occurred on 08/18/2020 | Then on 10/30/2020 (after 73 days) | Then on 12/25/2020 (after 56 days) | Then on 06/25/2021 (after 182 days) | Then on 08/27/2021 (after 63 days) | Then on 10/08/2021 (after 42 days) | Then on 02/22/2022 (after 137 days) | Then on 10/18/2022 (after 238 days) | Then on 11/22/2022 (after 35 days) | Then on 04/07/2023 (after 136 days) | Then on 08/22/2023 (after 137 days) | Then on 02/02/2024 (after 164 days) | Then on 03/08/2024 (after 35 days) | Then on 03/15/2024 (after 7 days) | Then on 06/11/2024 (after 88 days) | Then on 06/25/2024 (after 14 days) | Then on 11/05/2024 (after 133 days) | Then on 01/28/2025 (after 84 days) | Then on 03/14/2025 (after 45 days) | Then on 03/25/2025 (after 11 days)
+Number 41: 20 times (9.30%) - First occurred on 05/22/2020 | Then on 03/12/2021 (after 294 days) | Then on 04/20/2021 (after 39 days) | Then on 05/11/2021 (after 21 days) | Then on 06/01/2021 (after 21 days) | Then on 08/17/2021 (after 77 days) | Then on 09/14/2021 (after 28 days) | Then on 05/10/2022 (after 238 days) | Then on 05/27/2022 (after 17 days) | Then on 06/03/2022 (after 7 days) | Then on 08/12/2022 (after 70 days) | Then on 10/11/2022 (after 60 days) | Then on 04/07/2023 (after 178 days) | Then on 05/12/2023 (after 35 days) | Then on 05/23/2023 (after 11 days) | Then on 06/20/2023 (after 28 days) | Then on 02/16/2024 (after 241 days) | Then on 08/30/2024 (after 196 days) | Then on 10/18/2024 (after 49 days) | Then on 02/07/2025 (after 112 days)
+Number 46: 20 times (9.30%) - First occurred on 07/10/2020 | Then on 07/28/2020 (after 18 days) | Then on 10/13/2020 (after 77 days) | Then on 03/05/2021 (after 143 days) | Then on 03/12/2021 (after 7 days) | Then on 11/09/2021 (after 242 days) | Then on 12/28/2021 (after 49 days) | Then on 01/18/2022 (after 21 days) | Then on 03/01/2022 (after 42 days) | Then on 04/12/2022 (after 42 days) | Then on 11/22/2022 (after 224 days) | Then on 11/29/2022 (after 7 days) | Then on 12/30/2022 (after 31 days) | Then on 01/20/2023 (after 21 days) | Then on 04/18/2023 (after 88 days) | Then on 05/05/2023 (after 17 days) | Then on 10/03/2023 (after 151 days) | Then on 10/10/2023 (after 7 days) | Then on 05/21/2024 (after 224 days) | Then on 10/29/2024 (after 161 days)
+Number 29: 19 times (8.84%) - First occurred on 08/11/2020 | Then on 12/18/2020 (after 129 days) | Then on 01/19/2021 (after 32 days) | Then on 01/29/2021 (after 10 days) | Then on 08/06/2021 (after 189 days) | Then on 10/19/2021 (after 74 days) | Then on 01/04/2022 (after 77 days) | Then on 03/29/2022 (after 84 days) | Then on 04/19/2022 (after 21 days) | Then on 10/04/2022 (after 168 days) | Then on 11/22/2022 (after 49 days) | Then on 02/07/2023 (after 77 days) | Then on 03/14/2023 (after 35 days) | Then on 04/18/2023 (after 35 days) | Then on 07/18/2023 (after 91 days) | Then on 08/11/2023 (after 24 days) | Then on 09/15/2023 (after 35 days) | Then on 11/07/2023 (after 53 days) | Then on 08/02/2024 (after 269 days)
+Number 12: 18 times (8.37%) - First occurred on 07/10/2020 | Then on 07/28/2020 (after 18 days) | Then on 01/12/2021 (after 168 days) | Then on 01/12/2021 (after 0 days) | Then on 03/19/2021 (after 66 days) | Then on 06/24/2022 (after 462 days) | Then on 08/19/2022 (after 56 days) | Then on 01/10/2023 (after 144 days) | Then on 05/23/2023 (after 133 days) | Then on 08/22/2023 (after 91 days) | Then on 10/03/2023 (after 42 days) | Then on 11/24/2023 (after 52 days) | Then on 01/09/2024 (after 46 days) | Then on 04/05/2024 (after 87 days) | Then on 05/21/2024 (after 46 days) | Then on 05/31/2024 (after 10 days) | Then on 08/30/2024 (after 91 days) | Then on 01/17/2025 (after 140 days)
+Number 25: 18 times (8.37%) - First occurred on 05/15/2020 | Then on 06/30/2020 (after 46 days) | Then on 10/06/2020 (after 98 days) | Then on 02/09/2021 (after 126 days) | Then on 09/03/2021 (after 206 days) | Then on 12/17/2021 (after 105 days) | Then on 12/17/2021 (after 0 days) | Then on 01/25/2022 (after 39 days) | Then on 03/15/2022 (after 49 days) | Then on 07/26/2022 (after 133 days) | Then on 08/05/2022 (after 10 days) | Then on 12/30/2022 (after 147 days) | Then on 02/28/2023 (after 60 days) | Then on 11/17/2023 (after 262 days) | Then on 02/09/2024 (after 84 days) | Then on 06/11/2024 (after 123 days) | Then on 11/05/2024 (after 147 days) | Then on 02/14/2025 (after 101 days)
+Number 22: 17 times (7.91%) - First occurred on 09/01/2020 | Then on 04/06/2021 (after 217 days) | Then on 04/20/2021 (after 14 days) | Then on 11/30/2021 (after 224 days) | Then on 01/11/2022 (after 42 days) | Then on 03/29/2022 (after 77 days) | Then on 10/11/2022 (after 196 days) | Then on 02/21/2023 (after 133 days) | Then on 11/17/2023 (after 269 days) | Then on 05/03/2024 (after 168 days) | Then on 05/31/2024 (after 28 days) | Then on 08/09/2024 (after 70 days) | Then on 09/24/2024 (after 46 days) | Then on 10/11/2024 (after 17 days) | Then on 10/29/2024 (after 18 days) | Then on 11/22/2024 (after 24 days) | Then on 03/14/2025 (after 112 days)
+Number 33: 17 times (7.91%) - First occurred on 06/23/2020 | Then on 07/21/2020 (after 28 days) | Then on 03/05/2021 (after 227 days) | Then on 12/10/2021 (after 280 days) | Then on 05/03/2022 (after 144 days) | Then on 05/17/2022 (after 14 days) | Then on 08/12/2022 (after 87 days) | Then on 12/13/2022 (after 123 days) | Then on 01/20/2023 (after 38 days) | Then on 02/14/2023 (after 25 days) | Then on 03/21/2023 (after 35 days) | Then on 04/16/2024 (after 392 days) | Then on 06/25/2024 (after 70 days) | Then on 07/26/2024 (after 31 days) | Then on 11/05/2024 (after 102 days) | Then on 11/29/2024 (after 24 days) | Then on 12/31/2024 (after 32 days)
+Number 34: 17 times (7.91%) - First occurred on 05/22/2020 | Then on 06/16/2020 (after 25 days) | Then on 10/13/2020 (after 119 days) | Then on 11/17/2020 (after 35 days) | Then on 02/26/2021 (after 101 days) | Then on 06/01/2021 (after 95 days) | Then on 06/25/2021 (after 24 days) | Then on 10/08/2021 (after 105 days) | Then on 02/01/2022 (after 116 days) | Then on 04/26/2022 (after 84 days) | Then on 06/03/2022 (after 38 days) | Then on 06/13/2023 (after 375 days) | Then on 06/20/2023 (after 7 days) | Then on 01/09/2024 (after 203 days) | Then on 04/05/2024 (after 87 days) | Then on 08/09/2024 (after 126 days) | Then on 10/11/2024 (after 63 days)
+Number 35: 17 times (7.91%) - First occurred on 06/02/2020 | Then on 07/28/2020 (after 56 days) | Then on 12/25/2020 (after 150 days) | Then on 03/19/2021 (after 84 days) | Then on 08/06/2021 (after 140 days) | Then on 10/26/2021 (after 81 days) | Then on 12/10/2021 (after 45 days) | Then on 08/12/2022 (after 245 days) | Then on 09/13/2022 (after 32 days) | Then on 06/20/2023 (after 280 days) | Then on 11/07/2023 (after 140 days) | Then on 01/09/2024 (after 63 days) | Then on 03/15/2024 (after 66 days) | Then on 07/09/2024 (after 116 days) | Then on 10/18/2024 (after 101 days) | Then on 11/15/2024 (after 28 days) | Then on 01/10/2025 (after 56 days)
+Number 44: 17 times (7.91%) - First occurred on 05/08/2020 | Then on 08/04/2020 (after 88 days) | Then on 09/15/2020 (after 42 days) | Then on 10/30/2020 (after 45 days) | Then on 11/27/2020 (after 28 days) | Then on 05/11/2021 (after 165 days) | Then on 12/10/2021 (after 213 days) | Then on 01/25/2022 (after 46 days) | Then on 02/01/2022 (after 7 days) | Then on 03/08/2022 (after 35 days) | Then on 05/10/2022 (after 63 days) | Then on 05/12/2023 (after 367 days) | Then on 08/11/2023 (after 91 days) | Then on 10/10/2023 (after 60 days) | Then on 12/05/2023 (after 56 days) | Then on 02/02/2024 (after 59 days) | Then on 10/11/2024 (after 252 days)
+Number 24: 15 times (6.98%) - First occurred on 08/11/2020 | Then on 09/01/2020 (after 21 days) | Then on 11/27/2020 (after 87 days) | Then on 02/09/2021 (after 74 days) | Then on 02/08/2022 (after 364 days) | Then on 03/08/2022 (after 28 days) | Then on 01/10/2023 (after 308 days) | Then on 06/13/2023 (after 154 days) | Then on 07/11/2023 (after 28 days) | Then on 10/03/2023 (after 84 days) | Then on 03/15/2024 (after 164 days) | Then on 09/06/2024 (after 175 days) | Then on 11/22/2024 (after 77 days) | Then on 12/31/2024 (after 39 days) | Then on 01/28/2025 (after 28 days)
+Number 27: 15 times (6.98%) - First occurred on 04/21/2020 | Then on 05/08/2020 (after 17 days) | Then on 10/06/2020 (after 151 days) | Then on 02/16/2021 (after 133 days) | Then on 04/06/2021 (after 49 days) | Then on 04/13/2021 (after 7 days) | Then on 07/27/2021 (after 105 days) | Then on 11/23/2021 (after 119 days) | Then on 04/07/2023 (after 500 days) | Then on 11/24/2023 (after 231 days) | Then on 12/26/2023 (after 32 days) | Then on 04/26/2024 (after 122 days) | Then on 06/18/2024 (after 53 days) | Then on 01/17/2025 (after 213 days) | Then on 03/14/2025 (after 56 days)
+Number 30: 15 times (6.98%) - First occurred on 06/30/2020 | Then on 04/20/2021 (after 294 days) | Then on 06/01/2021 (after 42 days) | Then on 09/24/2021 (after 115 days) | Then on 10/01/2021 (after 7 days) | Then on 11/09/2021 (after 39 days) | Then on 12/28/2021 (after 49 days) | Then on 09/13/2022 (after 259 days) | Then on 01/10/2023 (after 119 days) | Then on 02/07/2023 (after 28 days) | Then on 10/17/2023 (after 252 days) | Then on 11/17/2023 (after 31 days) | Then on 12/26/2023 (after 39 days) | Then on 07/26/2024 (after 213 days) | Then on 02/07/2025 (after 196 days)
+Number 40: 15 times (6.98%) - First occurred on 07/16/2021 | Then on 08/06/2021 (after 21 days) | Then on 11/30/2021 (after 116 days) | Then on 02/22/2022 (after 84 days) | Then on 03/15/2022 (after 21 days) | Then on 06/03/2022 (after 80 days) | Then on 07/15/2022 (after 42 days) | Then on 08/26/2022 (after 42 days) | Then on 09/27/2022 (after 32 days) | Then on 07/18/2023 (after 294 days) | Then on 09/22/2023 (after 66 days) | Then on 02/16/2024 (after 147 days) | Then on 05/14/2024 (after 88 days) | Then on 06/18/2024 (after 35 days) | Then on 09/13/2024 (after 87 days)
+Number 23: 14 times (6.51%) - First occurred on 11/06/2020 | Then on 03/19/2021 (after 133 days) | Then on 11/16/2021 (after 242 days) | Then on 12/10/2021 (after 24 days) | Then on 02/08/2022 (after 60 days) | Then on 08/12/2022 (after 185 days) | Then on 02/14/2023 (after 186 days) | Then on 04/07/2023 (after 52 days) | Then on 08/22/2023 (after 137 days) | Then on 12/05/2023 (after 105 days) | Then on 01/02/2024 (after 28 days) | Then on 07/26/2024 (after 206 days) | Then on 08/02/2024 (after 7 days) | Then on 10/18/2024 (after 77 days)
+Number 32: 14 times (6.51%) - First occurred on 04/21/2020 | Then on 05/22/2020 (after 31 days) | Then on 06/02/2020 (after 11 days) | Then on 06/25/2021 (after 388 days) | Then on 09/03/2021 (after 70 days) | Then on 11/09/2021 (after 67 days) | Then on 03/29/2022 (after 140 days) | Then on 06/10/2022 (after 73 days) | Then on 04/25/2023 (after 319 days) | Then on 08/01/2023 (after 98 days) | Then on 10/27/2023 (after 87 days) | Then on 05/03/2024 (after 189 days) | Then on 07/02/2024 (after 60 days) | Then on 02/21/2025 (after 234 days)
+Number 52: 14 times (6.51%) - First occurred on 06/16/2020 | Then on 03/12/2021 (after 269 days) | Then on 08/17/2021 (after 158 days) | Then on 11/16/2021 (after 91 days) | Then on 05/03/2022 (after 168 days) | Then on 08/26/2022 (after 115 days) | Then on 02/07/2023 (after 165 days) | Then on 07/25/2023 (after 168 days) | Then on 11/24/2023 (after 122 days) | Then on 08/30/2024 (after 280 days) | Then on 11/29/2024 (after 91 days) | Then on 01/17/2025 (after 49 days) | Then on 02/28/2025 (after 42 days) | Then on 03/14/2025 (after 14 days)
+Number 28: 13 times (6.05%) - First occurred on 04/28/2020 | Then on 09/01/2020 (after 126 days) | Then on 11/06/2020 (after 66 days) | Then on 01/29/2021 (after 84 days) | Then on 04/13/2021 (after 74 days) | Then on 10/26/2021 (after 196 days) | Then on 03/01/2022 (after 126 days) | Then on 03/08/2022 (after 7 days) | Then on 04/19/2022 (after 42 days) | Then on 03/14/2023 (after 329 days) | Then on 07/25/2023 (after 133 days) | Then on 06/25/2024 (after 336 days) | Then on 08/20/2024 (after 56 days)
+Number 36: 13 times (6.05%) - First occurred on 05/15/2020 | Then on 06/16/2020 (after 32 days) | Then on 09/15/2020 (after 91 days) | Then on 09/14/2021 (after 364 days) | Then on 12/17/2021 (after 94 days) | Then on 10/04/2022 (after 291 days) | Then on 11/29/2022 (after 56 days) | Then on 12/13/2022 (after 14 days) | Then on 12/23/2022 (after 10 days) | Then on 02/28/2023 (after 67 days) | Then on 05/30/2023 (after 91 days) | Then on 12/15/2023 (after 199 days) | Then on 08/02/2024 (after 231 days)
+Number 37: 12 times (5.58%) - First occurred on 06/02/2020 | Then on 06/23/2020 (after 21 days) | Then on 11/23/2021 (after 518 days) | Then on 07/26/2022 (after 245 days) | Then on 09/27/2022 (after 63 days) | Then on 11/08/2022 (after 42 days) | Then on 03/28/2023 (after 140 days) | Then on 05/05/2023 (after 38 days) | Then on 05/23/2023 (after 18 days) | Then on 04/26/2024 (after 339 days) | Then on 12/24/2024 (after 242 days) | Then on 04/11/2025 (after 108 days)
+Number 38: 12 times (5.58%) - First occurred on 09/25/2020 | Then on 01/12/2021 (after 109 days) | Then on 03/19/2021 (after 66 days) | Then on 01/18/2022 (after 305 days) | Then on 09/13/2022 (after 238 days) | Then on 11/15/2022 (after 63 days) | Then on 02/14/2023 (after 91 days) | Then on 10/27/2023 (after 255 days) | Then on 01/02/2024 (after 67 days) | Then on 08/09/2024 (after 220 days) | Then on 03/07/2025 (after 210 days) | Then on 04/11/2025 (after 35 days)
+Number 42: 12 times (5.58%) - First occurred on 08/11/2020 | Then on 08/18/2020 (after 7 days) | Then on 09/08/2020 (after 21 days) | Then on 03/26/2021 (after 199 days) | Then on 11/09/2021 (after 228 days) | Then on 11/23/2021 (after 14 days) | Then on 03/22/2022 (after 119 days) | Then on 03/21/2023 (after 364 days) | Then on 09/08/2023 (after 171 days) | Then on 06/25/2024 (after 291 days) | Then on 07/09/2024 (after 14 days) | Then on 10/29/2024 (after 112 days)
+Number 43: 11 times (5.12%) - First occurred on 09/15/2020 | Then on 06/08/2021 (after 266 days) | Then on 09/24/2021 (after 108 days) | Then on 11/30/2021 (after 67 days) | Then on 01/04/2022 (after 35 days) | Then on 05/10/2022 (after 126 days) | Then on 06/24/2022 (after 45 days) | Then on 01/20/2023 (after 210 days) | Then on 08/29/2023 (after 221 days) | Then on 08/30/2024 (after 367 days) | Then on 01/17/2025 (after 140 days)
+Number 47: 11 times (5.12%) - First occurred on 06/02/2020 | Then on 09/25/2020 (after 115 days) | Then on 05/25/2021 (after 242 days) | Then on 08/19/2022 (after 451 days) | Then on 11/01/2022 (after 74 days) | Then on 01/20/2023 (after 80 days) | Then on 07/18/2023 (after 179 days) | Then on 09/22/2023 (after 66 days) | Then on 10/27/2023 (after 35 days) | Then on 11/24/2023 (after 28 days) | Then on 02/28/2025 (after 462 days)
+Number 48: 11 times (5.12%) - First occurred on 07/28/2020 | Then on 09/08/2020 (after 42 days) | Then on 12/25/2020 (after 108 days) | Then on 03/26/2021 (after 91 days) | Then on 06/15/2021 (after 81 days) | Then on 08/19/2022 (after 430 days) | Then on 04/07/2023 (after 231 days) | Then on 05/05/2023 (after 28 days) | Then on 07/11/2023 (after 67 days) | Then on 05/21/2024 (after 315 days) | Then on 08/09/2024 (after 80 days)
+Number 50: 11 times (5.12%) - First occurred on 08/25/2020 | Then on 04/13/2021 (after 231 days) | Then on 02/15/2022 (after 308 days) | Then on 09/20/2022 (after 217 days) | Then on 01/31/2023 (after 133 days) | Then on 07/18/2023 (after 168 days) | Then on 08/29/2023 (after 42 days) | Then on 02/27/2024 (after 182 days) | Then on 03/26/2024 (after 28 days) | Then on 11/15/2024 (after 234 days) | Then on 04/01/2025 (after 137 days)
+Number 39: 10 times (4.65%) - First occurred on 07/21/2020 | Then on 03/08/2022 (after 595 days) | Then on 08/26/2022 (after 171 days) | Then on 02/28/2023 (after 186 days) | Then on 03/14/2023 (after 14 days) | Then on 04/16/2024 (after 399 days) | Then on 11/22/2024 (after 220 days) | Then on 11/29/2024 (after 7 days) | Then on 12/31/2024 (after 32 days) | Then on 02/07/2025 (after 38 days)
+Number 53: 10 times (4.65%) - First occurred on 08/04/2020 | Then on 08/25/2020 (after 21 days) | Then on 12/18/2020 (after 115 days) | Then on 03/26/2021 (after 98 days) | Then on 11/16/2021 (after 235 days) | Then on 09/20/2022 (after 308 days) | Then on 10/18/2022 (after 28 days) | Then on 12/06/2022 (after 49 days) | Then on 06/06/2023 (after 182 days) | Then on 01/28/2025 (after 602 days)
+Number 56: 10 times (4.65%) - First occurred on 06/23/2020 | Then on 12/18/2020 (after 178 days) | Then on 01/19/2021 (after 32 days) | Then on 06/08/2021 (after 140 days) | Then on 01/04/2022 (after 210 days) | Then on 02/22/2022 (after 49 days) | Then on 03/26/2024 (after 763 days) | Then on 12/10/2024 (after 259 days) | Then on 12/10/2024 (after 0 days) | Then on 04/11/2025 (after 122 days)
+Number 45: 9 times (4.19%) - First occurred on 10/30/2020 | Then on 09/14/2021 (after 319 days) | Then on 01/18/2022 (after 126 days) | Then on 07/01/2022 (after 164 days) | Then on 08/12/2022 (after 42 days) | Then on 03/28/2023 (after 228 days) | Then on 06/13/2023 (after 77 days) | Then on 12/05/2023 (after 175 days) | Then on 01/09/2024 (after 35 days)
+Number 49: 9 times (4.19%) - First occurred on 09/25/2020 | Then on 01/19/2021 (after 116 days) | Then on 04/26/2022 (after 462 days) | Then on 02/21/2023 (after 301 days) | Then on 11/24/2023 (after 276 days) | Then on 02/27/2024 (after 95 days) | Then on 09/13/2024 (after 199 days) | Then on 12/24/2024 (after 102 days) | Then on 01/10/2025 (after 17 days)
+Number 54: 9 times (4.19%) - First occurred on 07/21/2020 | Then on 09/06/2022 (after 777 days) | Then on 11/22/2022 (after 77 days) | Then on 01/31/2023 (after 70 days) | Then on 10/17/2023 (after 259 days) | Then on 12/15/2023 (after 59 days) | Then on 07/02/2024 (after 200 days) | Then on 08/20/2024 (after 49 days) | Then on 10/11/2024 (after 52 days)
+Number 58: 9 times (4.19%) - First occurred on 03/05/2021 | Then on 04/06/2021 (after 32 days) | Then on 08/27/2021 (after 143 days) | Then on 04/19/2022 (after 235 days) | Then on 09/20/2022 (after 154 days) | Then on 01/23/2024 (after 490 days) | Then on 07/09/2024 (after 168 days) | Then on 02/14/2025 (after 220 days) | Then on 04/11/2025 (after 56 days)
+Number 60: 9 times (4.19%) - First occurred on 04/21/2020 | Then on 07/15/2022 (after 815 days) | Then on 08/26/2022 (after 42 days) | Then on 03/07/2023 (after 193 days) | Then on 06/06/2023 (after 91 days) | Then on 03/26/2024 (after 294 days) | Then on 05/14/2024 (after 49 days) | Then on 03/25/2025 (after 315 days) | Then on 04/01/2025 (after 7 days)
+Number 51: 8 times (3.72%) - First occurred on 06/15/2021 | Then on 09/14/2021 (after 91 days) | Then on 03/22/2022 (after 189 days) | Then on 07/11/2023 (after 476 days) | Then on 08/29/2023 (after 49 days) | Then on 08/09/2024 (after 346 days) | Then on 11/15/2024 (after 98 days) | Then on 12/10/2024 (after 25 days)
+Number 55: 7 times (3.26%) - First occurred on 09/15/2020 | Then on 12/10/2021 (after 451 days) | Then on 01/18/2022 (after 39 days) | Then on 09/06/2022 (after 231 days) | Then on 11/01/2022 (after 56 days) | Then on 06/30/2023 (after 241 days) | Then on 09/22/2023 (after 84 days)
+Number 57: 5 times (2.33%) - First occurred on 06/09/2020 | Then on 02/14/2023 (after 980 days) | Then on 10/03/2023 (after 231 days) | Then on 03/08/2024 (after 157 days) | Then on 05/21/2024 (after 74 days)
+Number 59: 5 times (2.33%) - First occurred on 12/18/2020 | Then on 12/23/2022 (after 735 days) | Then on 12/30/2022 (after 7 days) | Then on 03/07/2023 (after 67 days) | Then on 11/07/2023 (after 245 days)
+Number 61: 5 times (2.33%) - First occurred on 11/17/2020 | Then on 12/06/2022 (after 749 days) | Then on 11/07/2023 (after 336 days) | Then on 02/27/2024 (after 112 days) | Then on 08/02/2024 (after 157 days)
+Number 63: 4 times (1.86%) - First occurred on 06/08/2021 | Then on 02/15/2022 (after 252 days) | Then on 05/17/2022 (after 91 days) | Then on 05/27/2022 (after 10 days)
+Number 64: 3 times (1.40%) - First occurred on 08/04/2020 | Then on 07/15/2022 (after 710 days) | Then on 11/05/2024 (after 844 days)
+Number 62: 2 times (0.93%) - First occurred on 03/28/2023 | Then on 12/26/2023 (after 273 days)
+Number 66: 2 times (0.93%) - First occurred on 01/19/2021 | Then on 11/02/2021 (after 287 days)
+Number 65: 1 times (0.47%) - Only occurred on 02/21/2023
+Number 67: 1 times (0.47%) - Only occurred on 06/09/2020
+Number 68: 1 times (0.47%) - Only occurred on 09/24/2021
+
+----- Mega Ball Occurrences with Dates and Gaps -----
+Mega Ball 19: 23 times (10.70%) - First occurred on 04/28/2020 | Then on 10/30/2020 (after 185 days) | Then on 12/08/2020 (after 39 days) | Then on 01/19/2021 (after 42 days) | Then on 04/13/2021 (after 84 days) | Then on 04/30/2021 (after 17 days) | Then on 09/14/2021 (after 137 days) | Then on 10/19/2021 (after 35 days) | Then on 10/26/2021 (after 7 days) | Then on 01/11/2022 (after 77 days) | Then on 01/18/2022 (after 7 days) | Then on 04/26/2022 (after 98 days) | Then on 05/03/2022 (after 7 days) | Then on 11/15/2022 (after 196 days) | Then on 12/06/2022 (after 21 days) | Then on 04/18/2023 (after 133 days) | Then on 06/13/2023 (after 56 days) | Then on 10/03/2023 (after 112 days) | Then on 05/14/2024 (after 224 days) | Then on 07/02/2024 (after 49 days) | Then on 01/28/2025 (after 210 days) | Then on 02/14/2025 (after 17 days) | Then on 02/28/2025 (after 14 days)
+Mega Ball 22: 23 times (10.70%) - First occurred on 05/08/2020 | Then on 08/04/2020 (after 88 days) | Then on 08/11/2020 (after 7 days) | Then on 06/08/2021 (after 301 days) | Then on 06/15/2021 (after 7 days) | Then on 11/16/2021 (after 154 days) | Then on 02/22/2022 (after 98 days) | Then on 03/01/2022 (after 7 days) | Then on 03/29/2022 (after 28 days) | Then on 06/03/2022 (after 66 days) | Then on 12/13/2022 (after 193 days) | Then on 05/23/2023 (after 161 days) | Then on 06/30/2023 (after 38 days) | Then on 07/18/2023 (after 18 days) | Then on 12/26/2023 (after 161 days) | Then on 02/02/2024 (after 38 days) | Then on 02/09/2024 (after 7 days) | Then on 03/08/2024 (after 28 days) | Then on 03/26/2024 (after 18 days) | Then on 06/11/2024 (after 77 days) | Then on 06/18/2024 (after 7 days) | Then on 10/29/2024 (after 133 days) | Then on 12/31/2024 (after 63 days)
+Mega Ball 20: 19 times (8.84%) - First occurred on 05/22/2020 | Then on 06/23/2020 (after 32 days) | Then on 07/10/2020 (after 17 days) | Then on 07/28/2020 (after 18 days) | Then on 09/25/2020 (after 59 days) | Then on 04/06/2021 (after 193 days) | Then on 05/11/2021 (after 35 days) | Then on 06/25/2021 (after 45 days) | Then on 02/08/2022 (after 228 days) | Then on 04/12/2022 (after 63 days) | Then on 05/10/2022 (after 28 days) | Then on 07/15/2022 (after 66 days) | Then on 10/18/2022 (after 95 days) | Then on 01/20/2023 (after 94 days) | Then on 12/15/2023 (after 329 days) | Then on 04/05/2024 (after 112 days) | Then on 08/20/2024 (after 137 days) | Then on 11/22/2024 (after 94 days) | Then on 03/07/2025 (after 105 days)
+Mega Ball 25: 17 times (7.91%) - First occurred on 07/21/2020 | Then on 09/01/2020 (after 42 days) | Then on 09/15/2020 (after 14 days) | Then on 12/18/2020 (after 94 days) | Then on 03/12/2021 (after 84 days) | Then on 03/26/2021 (after 14 days) | Then on 07/16/2021 (after 112 days) | Then on 10/01/2021 (after 77 days) | Then on 12/10/2021 (after 70 days) | Then on 06/24/2022 (after 196 days) | Then on 09/13/2022 (after 81 days) | Then on 10/04/2022 (after 21 days) | Then on 11/22/2022 (after 49 days) | Then on 03/07/2023 (after 105 days) | Then on 03/21/2023 (after 14 days) | Then on 03/15/2024 (after 360 days) | Then on 11/05/2024 (after 235 days)
+Mega Ball 23: 15 times (6.98%) - First occurred on 06/02/2020 | Then on 06/16/2020 (after 14 days) | Then on 12/25/2020 (after 192 days) | Then on 04/20/2021 (after 116 days) | Then on 11/29/2022 (after 588 days) | Then on 03/14/2023 (after 105 days) | Then on 05/12/2023 (after 59 days) | Then on 06/06/2023 (after 25 days) | Then on 02/16/2024 (after 255 days) | Then on 04/26/2024 (after 70 days) | Then on 05/31/2024 (after 35 days) | Then on 07/19/2024 (after 49 days) | Then on 09/06/2024 (after 49 days) | Then on 09/24/2024 (after 18 days) | Then on 01/10/2025 (after 108 days)
+Mega Ball 24: 15 times (6.98%) - First occurred on 04/21/2020 | Then on 11/06/2020 (after 199 days) | Then on 01/01/2021 (after 56 days) | Then on 10/08/2021 (after 280 days) | Then on 11/23/2021 (after 46 days) | Then on 02/01/2022 (after 70 days) | Then on 05/17/2022 (after 105 days) | Then on 08/12/2022 (after 87 days) | Then on 08/19/2022 (after 7 days) | Then on 09/27/2022 (after 39 days) | Then on 02/14/2023 (after 140 days) | Then on 08/01/2023 (after 168 days) | Then on 08/02/2024 (after 367 days) | Then on 08/30/2024 (after 28 days) | Then on 02/07/2025 (after 161 days)
+Mega Ball 21: 14 times (6.51%) - First occurred on 02/09/2021 | Then on 05/25/2021 (after 105 days) | Then on 09/24/2021 (after 122 days) | Then on 12/17/2021 (after 84 days) | Then on 01/04/2022 (after 18 days) | Then on 02/15/2022 (after 42 days) | Then on 03/22/2022 (after 35 days) | Then on 09/20/2022 (after 182 days) | Then on 12/23/2022 (after 94 days) | Then on 01/23/2024 (after 396 days) | Then on 04/16/2024 (after 84 days) | Then on 07/09/2024 (after 84 days) | Then on 09/13/2024 (after 66 days) | Then on 04/01/2025 (after 200 days)
+Mega Ball 18: 13 times (6.05%) - First occurred on 08/18/2020 | Then on 10/06/2020 (after 49 days) | Then on 07/06/2021 (after 273 days) | Then on 08/06/2021 (after 31 days) | Then on 03/08/2022 (after 214 days) | Then on 06/10/2022 (after 94 days) | Then on 01/31/2023 (after 235 days) | Then on 03/28/2023 (after 56 days) | Then on 05/05/2023 (after 38 days) | Then on 08/11/2023 (after 98 days) | Then on 12/05/2023 (after 116 days) | Then on 01/02/2024 (after 28 days) | Then on 02/27/2024 (after 56 days)
+Mega Ball 17: 10 times (4.65%) - First occurred on 05/15/2020 | Then on 08/25/2020 (after 102 days) | Then on 03/05/2021 (after 192 days) | Then on 09/06/2022 (after 550 days) | Then on 07/11/2023 (after 308 days) | Then on 09/08/2023 (after 59 days) | Then on 10/10/2023 (after 32 days) | Then on 11/15/2024 (after 402 days) | Then on 03/14/2025 (after 119 days) | Then on 03/25/2025 (after 11 days)
+Mega Ball 15: 9 times (4.19%) - First occurred on 09/08/2020 | Then on 02/26/2021 (after 171 days) | Then on 01/10/2023 (after 683 days) | Then on 02/07/2023 (after 28 days) | Then on 02/21/2023 (after 14 days) | Then on 11/24/2023 (after 276 days) | Then on 01/09/2024 (after 46 days) | Then on 05/03/2024 (after 115 days) | Then on 04/11/2025 (after 343 days)
+Mega Ball 14: 8 times (3.72%) - First occurred on 01/12/2021 | Then on 03/19/2021 (after 66 days) | Then on 03/15/2022 (after 361 days) | Then on 05/27/2022 (after 73 days) | Then on 09/22/2023 (after 483 days) | Then on 07/26/2024 (after 308 days) | Then on 12/10/2024 (after 137 days) | Then on 12/24/2024 (after 14 days)
+Mega Ball 10: 7 times (3.26%) - First occurred on 06/09/2020 | Then on 11/27/2020 (after 171 days) | Then on 08/27/2021 (after 273 days) | Then on 11/02/2021 (after 67 days) | Then on 01/16/2024 (after 805 days) | Then on 10/11/2024 (after 269 days) | Then on 01/17/2025 (after 98 days)
+Mega Ball 16: 7 times (3.26%) - First occurred on 06/30/2020 | Then on 08/17/2021 (after 413 days) | Then on 11/09/2021 (after 84 days) | Then on 11/01/2022 (after 357 days) | Then on 02/28/2023 (after 119 days) | Then on 05/30/2023 (after 91 days) | Then on 06/25/2024 (after 392 days)
+Mega Ball 12: 6 times (2.79%) - First occurred on 09/03/2021 | Then on 01/25/2022 (after 144 days) | Then on 04/07/2023 (after 437 days) | Then on 08/22/2023 (after 137 days) | Then on 11/17/2023 (after 87 days) | Then on 08/09/2024 (after 266 days)
+Mega Ball 6: 5 times (2.33%) - First occurred on 08/26/2022 | Then on 12/30/2022 (after 126 days) | Then on 06/20/2023 (after 172 days) | Then on 07/25/2023 (after 35 days) | Then on 10/17/2023 (after 84 days)
+Mega Ball 13: 5 times (2.33%) - First occurred on 11/17/2020 | Then on 10/11/2022 (after 693 days) | Then on 11/08/2022 (after 28 days) | Then on 09/15/2023 (after 311 days) | Then on 02/21/2025 (after 525 days)
+Mega Ball 8: 4 times (1.86%) - First occurred on 11/30/2021 | Then on 12/28/2021 (after 28 days) | Then on 04/25/2023 (after 483 days) | Then on 05/21/2024 (after 392 days)
+Mega Ball 11: 4 times (1.86%) - First occurred on 10/13/2020 | Then on 06/01/2021 (after 231 days) | Then on 10/27/2023 (after 878 days) | Then on 11/07/2023 (after 11 days)
+Mega Ball 9: 3 times (1.40%) - First occurred on 04/19/2022 | Then on 08/29/2023 (after 497 days) | Then on 10/18/2024 (after 416 days)
+Mega Ball 1: 2 times (0.93%) - First occurred on 02/16/2021 | Then on 07/01/2022 (after 500 days)
+Mega Ball 5: 2 times (0.93%) - First occurred on 05/18/2021 | Then on 08/05/2022 (after 444 days)
+Mega Ball 2: 1 times (0.47%) - Only occurred on 07/27/2021
+Mega Ball 3: 1 times (0.47%) - Only occurred on 11/29/2024
+Mega Ball 4: 1 times (0.47%) - Only occurred on 01/29/2021
+Mega Ball 7: 1 times (0.47%) - Only occurred on 07/26/2022
+
+===== MEGA MILLIONS ANALYSIS RESULTS =====
+Draw Frequency: Twice a week (Tuesday and Friday)
+Total Draws Analyzed: 215
+
+----- Most Common Regular Numbers -----
+Number 3: 42 times (19.53%)
+Number 1: 29 times (13.49%)
+Number 7: 28 times (13.02%)
+Number 11: 28 times (13.02%)
+Number 15: 28 times (13.02%)
+Number 5: 27 times (12.56%)
+Number 8: 27 times (12.56%)
+Number 10: 27 times (12.56%)
+Number 14: 27 times (12.56%)
+Number 2: 26 times (12.09%)
+
+----- Most Common Mega Ball Numbers -----
+Number 19: 23 times (10.70%)
+Number 22: 23 times (10.70%)
+Number 20: 19 times (8.84%)
+Number 25: 17 times (7.91%)
+Number 23: 15 times (6.98%)
+
+----- Least Common Regular Numbers (Hot Numbers) -----
+Number 65: 1 times (0.47%)
+Number 67: 1 times (0.47%)
+Number 68: 1 times (0.47%)
+Number 62: 2 times (0.93%)
+Number 66: 2 times (0.93%)
+Number 64: 3 times (1.40%)
+Number 63: 4 times (1.86%)
+Number 57: 5 times (2.33%)
+Number 59: 5 times (2.33%)
+Number 61: 5 times (2.33%)
+
+----- Least Common Mega Ball Numbers (Hot Numbers) -----
+Number 2: 1 times (0.47%)
+Number 3: 1 times (0.47%)
+Number 4: 1 times (0.47%)
+Number 7: 1 times (0.47%)
+Number 5: 2 times (0.93%)
+
+===== MEGA MILLIONS ANALYSIS RESULTS =====
+Draw Frequency: Twice a week (Tuesday and Friday)
+Total Draws Analyzed: 215
+
+----- All Regular Number Occurrences -----
+Number 3: 42 times (19.53%)
+Number 1: 29 times (13.49%)
+Number 7: 28 times (13.02%)
+Number 11: 28 times (13.02%)
+Number 15: 28 times (13.02%)
+Number 5: 27 times (12.56%)
+Number 8: 27 times (12.56%)
+Number 10: 27 times (12.56%)
+Number 14: 27 times (12.56%)
+Number 2: 26 times (12.09%)
+Number 9: 26 times (12.09%)
+Number 20: 26 times (12.09%)
+Number 4: 25 times (11.63%)
+Number 6: 25 times (11.63%)
+Number 17: 25 times (11.63%)
+Number 16: 24 times (11.16%)
+Number 19: 23 times (10.70%)
+Number 13: 22 times (10.23%)
+Number 18: 22 times (10.23%)
+Number 21: 21 times (9.77%)
+Number 26: 20 times (9.30%)
+Number 31: 20 times (9.30%)
+Number 41: 20 times (9.30%)
+Number 46: 20 times (9.30%)
+Number 29: 19 times (8.84%)
+Number 12: 18 times (8.37%)
+Number 25: 18 times (8.37%)
+Number 22: 17 times (7.91%)
+Number 33: 17 times (7.91%)
+Number 34: 17 times (7.91%)
+Number 35: 17 times (7.91%)
+Number 44: 17 times (7.91%)
+Number 24: 15 times (6.98%)
+Number 27: 15 times (6.98%)
+Number 30: 15 times (6.98%)
+Number 40: 15 times (6.98%)
+Number 23: 14 times (6.51%)
+Number 32: 14 times (6.51%)
+Number 52: 14 times (6.51%)
+Number 28: 13 times (6.05%)
+Number 36: 13 times (6.05%)
+Number 37: 12 times (5.58%)
+Number 38: 12 times (5.58%)
+Number 42: 12 times (5.58%)
+Number 43: 11 times (5.12%)
+Number 47: 11 times (5.12%)
+Number 48: 11 times (5.12%)
+Number 50: 11 times (5.12%)
+Number 39: 10 times (4.65%)
+Number 53: 10 times (4.65%)
+Number 56: 10 times (4.65%)
+Number 45: 9 times (4.19%)
+Number 49: 9 times (4.19%)
+Number 54: 9 times (4.19%)
+Number 58: 9 times (4.19%)
+Number 60: 9 times (4.19%)
+Number 51: 8 times (3.72%)
+Number 55: 7 times (3.26%)
+Number 57: 5 times (2.33%)
+Number 59: 5 times (2.33%)
+Number 61: 5 times (2.33%)
+Number 63: 4 times (1.86%)
+Number 64: 3 times (1.40%)
+Number 62: 2 times (0.93%)
+Number 66: 2 times (0.93%)
+Number 65: 1 times (0.47%)
+Number 67: 1 times (0.47%)
+Number 68: 1 times (0.47%)
+
+----- All Mega Ball Occurrences -----
+Number 19: 23 times (10.70%)
+Number 22: 23 times (10.70%)
+Number 20: 19 times (8.84%)
+Number 25: 17 times (7.91%)
+Number 23: 15 times (6.98%)
+Number 24: 15 times (6.98%)
+Number 21: 14 times (6.51%)
+Number 18: 13 times (6.05%)
+Number 17: 10 times (4.65%)
+Number 15: 9 times (4.19%)
+Number 14: 8 times (3.72%)
+Number 10: 7 times (3.26%)
+Number 16: 7 times (3.26%)
+Number 12: 6 times (2.79%)
+Number 6: 5 times (2.33%)
+Number 13: 5 times (2.33%)
+Number 8: 4 times (1.86%)
+Number 11: 4 times (1.86%)
+Number 9: 3 times (1.40%)
+Number 1: 2 times (0.93%)
+Number 5: 2 times (0.93%)
+Number 2: 1 times (0.47%)
+Number 3: 1 times (0.47%)
+Number 4: 1 times (0.47%)
+Number 7: 1 times (0.47%)
+
+----- Respective Time Between Occurrences -----
+Number 15: 0 days since last occurrence
+Number 37: 0 days since last occurrence
+Number 38: 0 days since last occurrence
+Number 56: 0 days since last occurrence
+Number 58: 0 days since last occurrence
+Number 10: 10 days since last occurrence
+Number 16: 10 days since last occurrence
+Number 50: 10 days since last occurrence
+Number 60: 10 days since last occurrence
+Number 11: 10 days since last occurrence
+Number 2: 17 days since last occurrence
+Number 9: 17 days since last occurrence
+Number 31: 17 days since last occurrence
+Number 1: 17 days since last occurrence
+Number 22: 28 days since last occurrence
+Number 52: 28 days since last occurrence
+Number 27: 28 days since last occurrence
+Number 19: 35 days since last occurrence
+Number 26: 35 days since last occurrence
+Number 8: 35 days since last occurrence
+Number 14: 42 days since last occurrence
+Number 47: 42 days since last occurrence
+Number 4: 49 days since last occurrence
+Number 32: 49 days since last occurrence
+Number 20: 56 days since last occurrence
+Number 25: 56 days since last occurrence
+Number 7: 63 days since last occurrence
+Number 30: 63 days since last occurrence
+Number 39: 63 days since last occurrence
+Number 41: 63 days since last occurrence
+Number 24: 73 days since last occurrence
+Number 53: 73 days since last occurrence
+Number 12: 84 days since last occurrence
+Number 43: 84 days since last occurrence
+Number 35: 91 days since last occurrence
+Number 49: 91 days since last occurrence
+Number 33: 101 days since last occurrence
+Number 3: 108 days since last occurrence
+Number 51: 122 days since last occurrence
+Number 21: 133 days since last occurrence
+Number 5: 140 days since last occurrence
+Number 13: 140 days since last occurrence
+Number 18: 157 days since last occurrence
+Number 64: 157 days since last occurrence
+Number 42: 164 days since last occurrence
+Number 46: 164 days since last occurrence
+Number 23: 175 days since last occurrence
+Number 34: 182 days since last occurrence
+Number 44: 182 days since last occurrence
+Number 54: 182 days since last occurrence
+Number 40: 210 days since last occurrence
+Number 6: 217 days since last occurrence
+Number 28: 234 days since last occurrence
+Number 48: 245 days since last occurrence
+Number 29: 252 days since last occurrence
+Number 36: 252 days since last occurrence
+Number 61: 252 days since last occurrence
+Number 57: 325 days since last occurrence
+Number 17: 332 days since last occurrence
+Number 45: 458 days since last occurrence
+Number 62: 472 days since last occurrence
+Number 59: 521 days since last occurrence
+Number 55: 567 days since last occurrence
+Number 65: 780 days since last occurrence
+Number 63: 1050 days since last occurrence
+Number 66: 1256 days since last occurrence
+Number 68: 1295 days since last occurrence
+Number 67: 1767 days since last occurrence
+
+----- Respective Time Between Mega Ball Occurrences -----
+Mega Ball 15: 0 days since last occurrence
+Mega Ball 21: 10 days since last occurrence
+Mega Ball 17: 17 days since last occurrence
+Mega Ball 20: 35 days since last occurrence
+Mega Ball 19: 42 days since last occurrence
+Mega Ball 13: 49 days since last occurrence
+Mega Ball 24: 63 days since last occurrence
+Mega Ball 10: 84 days since last occurrence
+Mega Ball 23: 91 days since last occurrence
+Mega Ball 22: 101 days since last occurrence
+Mega Ball 14: 108 days since last occurrence
+Mega Ball 3: 133 days since last occurrence
+Mega Ball 25: 157 days since last occurrence
+Mega Ball 9: 175 days since last occurrence
+Mega Ball 12: 245 days since last occurrence
+Mega Ball 16: 290 days since last occurrence
+Mega Ball 8: 325 days since last occurrence
+Mega Ball 18: 409 days since last occurrence
+Mega Ball 11: 521 days since last occurrence
+Mega Ball 6: 542 days since last occurrence
+Mega Ball 5: 980 days since last occurrence
+Mega Ball 7: 990 days since last occurrence
+Mega Ball 1: 1015 days since last occurrence
+Mega Ball 2: 1354 days since last occurrence
+Mega Ball 4: 1533 days since last occurrence
+
+----- Consecutive Occurrence Probabilities -----
+Same number appearing twice in a row: 7.94%
+Same number appearing three times in a row: 0.00%
+Same number appearing four times in a row: 0.00%
+
+----- Predicted Numbers for Next Draw -----
+Based on frequency:
+Regular Numbers: [3, 1, 7, 11, 15]
+Mega Ball: 19
+
+Hot numbers strategy:
+Regular Numbers: [65, 67, 68, 62, 66]
+Mega Ball: 2
+
+Mixed strategy:
+Regular Numbers: [3, 1, 7, 65, 67]
+Mega Ball: 19
+
+Visualizations have been saved as 'megamillions_frequency.png' and 'megamillions_time_between.png'
+Analysis complete. Visualizations have been saved.
